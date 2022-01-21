@@ -1,0 +1,12 @@
+1. I created  index.html ans css files.
+
+2. Then I have applied some grunt plugins to my app..
+    that are : autoprefixer,watch,copy,cssmin,imagemin,connect
+
+3. If you make any changes in index.html file it will reflect on browser when you refresh page.
+
+4. If you make any changes in css files then save it, it will automatically compile by using grunt watch.
+
+5. Displayed the output of index.html file on browser using connect grunt plugin.
+
+6. Output Screenshots are uploaded for reference.
