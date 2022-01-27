@@ -1,0 +1,38 @@
+** Dockerizing Angular Application **
+
+1. First I have created an angular application with ng new angular application.
+
+2. Then Created a docker account.
+
+3. Created a docker file in which command to build the image.
+
+4. Pushed the angular app into github.
+
+5. Used docker build command to run the build image (docker builf docker t . -f  Dockerfile).
+
+6. Then run the docker command to using port 80 given the name as container1.
+
+7. Docker tag used to initialize the docker.
+
+8. Docker push command is used to push into the docker hub.
+
+9. Then created an Amazon ec2 instance.
+ 
+10. Then created 2012 window server.
+
+11. Added a tag name of Angular App.
+
+12. Generated a key pair I.
+
+13. Download the rdp client.
+
+14. Decrypted the password using the key pair.
+
+15. Launched the client.
+
+16. Then configured the client with web server.
+ 
+17. Then copied the public ip address to the view the Output.
+
+18. The angular app hosted on the ip address http://3.84.224.156/ using simplilearn aws lab.
+
